@@ -1,5 +1,4 @@
 import sys, os, shutil
-import shutil
 import subprocess
 
 import settings as cfg
